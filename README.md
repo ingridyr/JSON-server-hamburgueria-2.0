@@ -28,7 +28,6 @@
   }
 ]
 ```
-
 <h2 align ='center'> Cadastro de um novo usuário </h2>
 
 `POST /register - FORMATO DA REQUISIÇÃO:`
@@ -65,7 +64,7 @@
 }
 ```
 
-`POST /register - FORMATO DA RESPOSTA - STATUS 200:`
+`POST /login - FORMATO DA RESPOSTA - STATUS 200:`
 
 ```json
 {
